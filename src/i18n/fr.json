@@ -1,0 +1,281 @@
+{
+  "brand": {
+    "name": "Simba",
+    "tagline": "Le #1 Supermarché du Rwanda",
+    "description": "Achetez des produits frais avec collecte rapide à Kigali"
+  },
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "categories": "Catégories",
+    "branches": "Succursales",
+    "about": "À propos",
+    "cart": "Panier",
+    "account": "Compte",
+    "orders": "Mes Commandes",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord",
+    "profile": "Profil",
+    "search": "Rechercher des produits..."
+  },
+  "home": {
+    "hero": {
+      "title": "Produits frais, prêts quand vous l'êtes",
+      "subtitle": "Achetez au plus grand supermarché du Rwanda. Collecte depuis 11 succursales à travers le pays.",
+      "cta": "Commencer",
+      "secondary": "Trouver une Succursale"
+    },
+    "valueProps": {
+      "fast": {
+        "title": "Collecte en 45 min",
+        "description": "Votre commande prête rapidement"
+      },
+      "fresh": {
+        "title": "Produits Frais",
+        "description": "Produits frais chaque jour"
+      },
+      "payment": {
+        "title": "Paiement MoMo",
+        "description": "Payez en toute sécurité avec Mobile Money"
+      },
+      "branches": {
+        "title": "11 Succursales",
+        "description": "À travers Kigali et au-delà"
+      }
+    },
+    "categories": {
+      "title": "Parcourir par Catégorie",
+      "subtitle": "Trouvez exactement ce qu'il vous faut"
+    },
+    "featured": {
+      "title": "Produits Vedettes",
+      "subtitle": "Les favoris de nos clients",
+      "viewAll": "Voir Tous les Produits"
+    },
+    "branches": {
+      "title": "Nos Succursales",
+      "subtitle": "Collecte à l'emplacement le plus proche",
+      "viewAll": "Voir Toutes les Succursales"
+    },
+    "trust": {
+      "title": "Le Rwanda fait confiance à Simba",
+      "stat1": "11",
+      "stat1Label": "Succursales",
+      "stat2": "10,000+",
+      "stat2Label": "Clients Satisfaits",
+      "stat3": "500+",
+      "stat3Label": "Produits",
+      "stat4": "4.8",
+      "stat4Label": "Note Moyenne"
+    },
+    "cta": {
+      "title": "Prêt à commencer vos achats?",
+      "subtitle": "Créez votre compte gratuit et commandez en quelques minutes",
+      "button": "Créer un Compte"
+    }
+  },
+  "products": {
+    "title": "Tous les Produits",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "category": "Catégorie",
+    "allCategories": "Toutes les Catégories",
+    "addToCart": "Ajouter au Panier",
+    "outOfStock": "Rupture de Stock",
+    "inStock": "En Stock",
+    "noResults": "Aucun produit trouvé",
+    "search": "Rechercher des produits...",
+    "price": "Prix",
+    "unit": "par",
+    "viewDetails": "Voir Détails",
+    "relatedProducts": "Produits Similaires"
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": "Votre panier est vide",
+    "emptyDescription": "Ajoutez des produits pour commencer",
+    "continueShopping": "Continuer les Achats",
+    "subtotal": "Sous-total",
+    "deposit": "Dépôt (MoMo)",
+    "total": "Total",
+    "checkout": "Passer à la Caisse",
+    "remove": "Retirer",
+    "quantity": "Qté",
+    "item": "article",
+    "items": "articles"
+  },
+  "checkout": {
+    "title": "Commande",
+    "selectBranch": "Choisir la Succursale de Collecte",
+    "selectTime": "Heure de Collecte",
+    "note": "Note (facultatif)",
+    "notePlaceholder": "Instructions particulières?",
+    "summary": "Résumé de la Commande",
+    "depositInfo": "Un petit dépôt confirme votre commande. Le reste est payé à la succursale.",
+    "placeOrder": "Commander & Payer Dépôt",
+    "processing": "Traitement...",
+    "paymentMethod": "Mode de Paiement",
+    "momo": "Mobile Money (MoMo)",
+    "today": "Aujourd'hui",
+    "tomorrow": "Demain",
+    "selectTimeSlot": "Choisir un créneau"
+  },
+  "payment": {
+    "title": "Finaliser le Paiement",
+    "momoPrompt": "Entrez votre numéro MoMo",
+    "momoNumber": "Numéro MoMo",
+    "confirm": "Confirmer le Paiement",
+    "success": "Paiement Réussi!",
+    "successMessage": "Votre commande est confirmée. Le personnel la prépare.",
+    "viewOrder": "Voir la Commande",
+    "continueShopping": "Continuer les Achats",
+    "depositAmount": "Montant du Dépôt",
+    "waiting": "En attente de confirmation MoMo..."
+  },
+  "orders": {
+    "title": "Mes Commandes",
+    "orderNumber": "Commande",
+    "status": {
+      "pending": "En attente",
+      "accepted": "Acceptée",
+      "preparing": "En préparation",
+      "ready": "Prête",
+      "completed": "Terminée",
+      "cancelled": "Annulée",
+      "no_show": "Non récupérée"
+    },
+    "pickupTime": "Heure de collecte",
+    "branch": "Succursale",
+    "total": "Total",
+    "viewDetails": "Voir Détails",
+    "leaveReview": "Laisser un Avis",
+    "noOrders": "Vous n'avez pas encore passé de commande",
+    "startShopping": "Commencer"
+  },
+  "auth": {
+    "login": {
+      "title": "Bon retour",
+      "subtitle": "Connectez-vous à votre compte Simba",
+      "email": "Email",
+      "password": "Mot de passe",
+      "forgot": "Mot de passe oublié?",
+      "submit": "Se Connecter",
+      "google": "Continuer avec Google",
+      "noAccount": "Pas de compte?",
+      "register": "S'inscrire"
+    },
+    "register": {
+      "title": "Créer votre compte",
+      "subtitle": "Commencez vos achats chez Simba",
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "password": "Mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "submit": "Créer un Compte",
+      "hasAccount": "Vous avez déjà un compte?",
+      "login": "Se connecter",
+      "terms": "En vous inscrivant, vous acceptez nos conditions"
+    },
+    "forgot": {
+      "title": "Réinitialiser le mot de passe",
+      "subtitle": "Entrez votre email pour recevoir un lien",
+      "email": "Email",
+      "submit": "Envoyer le Lien",
+      "backToLogin": "Retour à la connexion",
+      "sent": "Lien envoyé! Vérifiez votre email."
+    }
+  },
+  "review": {
+    "title": "Évaluez votre expérience",
+    "subtitle": "Comment s'est passée votre collecte chez {{branch}}?",
+    "rating": "Note",
+    "comment": "Partagez votre avis (facultatif)",
+    "commentPlaceholder": "Qu'avez-vous aimé?",
+    "submit": "Envoyer l'Avis",
+    "thanks": "Merci pour votre avis!"
+  },
+  "dashboard": {
+    "welcome": "Bon retour, {{name}}",
+    "overview": "Aperçu",
+    "orders": "Commandes",
+    "products": "Produits",
+    "categories": "Catégories",
+    "branches": "Succursales",
+    "inventory": "Inventaire",
+    "users": "Utilisateurs",
+    "staff": "Personnel",
+    "reviews": "Avis",
+    "settings": "Paramètres",
+    "stats": {
+      "totalOrders": "Commandes totales",
+      "todayOrders": "Commandes aujourd'hui",
+      "pending": "En attente",
+      "completed": "Terminées",
+      "revenue": "Revenus",
+      "customers": "Clients",
+      "products": "Produits",
+      "lowStock": "Stock bas"
+    },
+    "assignOrder": "Assigner au personnel",
+    "acceptOrder": "Accepter",
+    "markReady": "Marquer prête",
+    "markCompleted": "Terminer",
+    "markNoShow": "Non récupérée",
+    "pendingApproval": "En attente d'approbation",
+    "approve": "Approuver",
+    "reject": "Rejeter",
+    "createBranch": "Créer Succursale",
+    "createProduct": "Créer Produit"
+  },
+  "chatbot": {
+    "title": "Assistant Simba",
+    "subtitle": "Comment puis-je vous aider?",
+    "placeholder": "Posez-moi une question...",
+    "send": "Envoyer",
+    "greeting": "Bonjour! Je suis l'Assistant Simba. Je peux vous aider à trouver des produits, vérifier les succursales ou répondre à vos questions. Que cherchez-vous?",
+    "suggestions": {
+      "milk": "Avez-vous du lait frais?",
+      "breakfast": "Il me faut quelque chose pour le petit-déjeuner",
+      "branches": "Où sont vos succursales?",
+      "delivery": "Comment fonctionne la collecte?"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "submit": "Envoyer",
+    "back": "Retour",
+    "next": "Suivant",
+    "close": "Fermer",
+    "confirm": "Confirmer",
+    "yes": "Oui",
+    "no": "Non",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "all": "Tout",
+    "none": "Aucun",
+    "error": "Une erreur s'est produite",
+    "success": "Succès!",
+    "required": "Requis",
+    "optional": "Facultatif"
+  },
+  "footer": {
+    "about": "À propos de Simba",
+    "aboutText": "La plus grande chaîne de supermarchés du Rwanda, au service des communautés depuis 1990.",
+    "quickLinks": "Liens rapides",
+    "support": "Support",
+    "contact": "Contactez-nous",
+    "faq": "FAQ",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "followUs": "Suivez-nous",
+    "copyright": "© 2026 Simba Supermarket. Tous droits réservés."
+  }
+}

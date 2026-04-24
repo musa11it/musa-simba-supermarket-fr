@@ -1,0 +1,281 @@
+{
+  "brand": {
+    "name": "Simba",
+    "tagline": "Supermarket #1 mu Rwanda",
+    "description": "Gura ibiribwa bishya, ubyakire vuba muri Kigali"
+  },
+  "nav": {
+    "home": "Ahabanza",
+    "products": "Ibicuruzwa",
+    "categories": "Ibyiciro",
+    "branches": "Amashami",
+    "about": "Ibitwerekeye",
+    "cart": "Agashinyaguro",
+    "account": "Konti Yanjye",
+    "orders": "Amateka y'Ibyo Naguze",
+    "login": "Injira",
+    "register": "Iyandikishe",
+    "logout": "Sohoka",
+    "dashboard": "Ikibaho",
+    "profile": "Umwirondoro",
+    "search": "Shakisha ibicuruzwa..."
+  },
+  "home": {
+    "hero": {
+      "title": "Ibiribwa bishya, biteguye mu gihe ubikeneye",
+      "subtitle": "Gura muri Simba, supermarket nini mu Rwanda. Yakira ibyo waguze mu mashami 11 mu gihugu.",
+      "cta": "Tangira Kugura",
+      "secondary": "Shaka Ishami"
+    },
+    "valueProps": {
+      "fast": {
+        "title": "Gufata mu Minota 45",
+        "description": "Ibyo waguze biteguye vuba"
+      },
+      "fresh": {
+        "title": "Ibiribwa Bishya",
+        "description": "Imboga n'imbuto nshya buri munsi"
+      },
+      "payment": {
+        "title": "Kwishyura kuri MoMo",
+        "description": "Kwishyura byizewe binyuze kuri Mobile Money"
+      },
+      "branches": {
+        "title": "Amashami 11",
+        "description": "Muri Kigali no hanze yayo"
+      }
+    },
+    "categories": {
+      "title": "Gura hakurikijwe Ibyiciro",
+      "subtitle": "Shakisha ibyo ukeneye"
+    },
+    "featured": {
+      "title": "Ibicuruzwa Bikomeye",
+      "subtitle": "Ibikunzwe n'abakiriya",
+      "viewAll": "Reba Byose"
+    },
+    "branches": {
+      "title": "Amashami Yacu",
+      "subtitle": "Yakira aho ari hafi yawe",
+      "viewAll": "Reba Amashami Yose"
+    },
+    "trust": {
+      "title": "U Rwanda rwizera Simba",
+      "stat1": "11",
+      "stat1Label": "Amashami",
+      "stat2": "10,000+",
+      "stat2Label": "Abakiriya Banyuzwe",
+      "stat3": "500+",
+      "stat3Label": "Ibicuruzwa",
+      "stat4": "4.8",
+      "stat4Label": "Isuzuma rusanzwe"
+    },
+    "cta": {
+      "title": "Witeguye gutangira kugura?",
+      "subtitle": "Fungura konti yawe y'ubuntu maze ugure mu minota mike",
+      "button": "Fungura Konti"
+    }
+  },
+  "products": {
+    "title": "Ibicuruzwa Byose",
+    "filter": "Shungura",
+    "sort": "Tondeka",
+    "category": "Icyiciro",
+    "allCategories": "Ibyiciro Byose",
+    "addToCart": "Shyira mu Gashinyaguro",
+    "outOfStock": "Byashize",
+    "inStock": "Birahari",
+    "noResults": "Nta bicuruzwa byabonetse",
+    "search": "Shakisha ibicuruzwa...",
+    "price": "Igiciro",
+    "unit": "kuri",
+    "viewDetails": "Reba Ibisobanuro",
+    "relatedProducts": "Ibindi Bicuruzwa"
+  },
+  "cart": {
+    "title": "Agashinyaguro Kawe",
+    "empty": "Agashinyaguro kawe karirimo ubusa",
+    "emptyDescription": "Shyira ibicuruzwa ubanze",
+    "continueShopping": "Komeza Kugura",
+    "subtotal": "Igiteranyo",
+    "deposit": "Ingwate (MoMo)",
+    "total": "Byose Hamwe",
+    "checkout": "Komeza Kwishyura",
+    "remove": "Vanaho",
+    "quantity": "Umubare",
+    "item": "ikintu",
+    "items": "ibintu"
+  },
+  "checkout": {
+    "title": "Gusoza",
+    "selectBranch": "Hitamo Ishami Uzagurira",
+    "selectTime": "Igihe cyo Kuyifata",
+    "note": "Inyandiko (si ngombwa)",
+    "notePlaceholder": "Hari ibindi ushaka kuvuga?",
+    "summary": "Incamake y'Ibyo Waguze",
+    "depositInfo": "Ingwate ntoya yemeza ibyo waguze. Ibisigaye uzishyura mu ishami iyo wabigiyeho.",
+    "placeOrder": "Emeza & Wishyure Ingwate",
+    "processing": "Birahari...",
+    "paymentMethod": "Uburyo bwo Kwishyura",
+    "momo": "Mobile Money (MoMo)",
+    "today": "Uyu munsi",
+    "tomorrow": "Ejo hazaza",
+    "selectTimeSlot": "Hitamo igihe"
+  },
+  "payment": {
+    "title": "Uzuza Ubwishyu",
+    "momoPrompt": "Andika numero ya MoMo yawe",
+    "momoNumber": "Numero ya MoMo",
+    "confirm": "Emeza Ubwishyu",
+    "success": "Ubwishyu Bwagenze Neza!",
+    "successMessage": "Ibyo waguze byemejwe. Abakozi bari kubitegura.",
+    "viewOrder": "Reba Ibyo Waguze",
+    "continueShopping": "Komeza Kugura",
+    "depositAmount": "Amafaranga y'Ingwate",
+    "waiting": "Tegereza iyemeza rya MoMo..."
+  },
+  "orders": {
+    "title": "Amateka y'Ibyo Naguze",
+    "orderNumber": "Code",
+    "status": {
+      "pending": "Itegereje Kwishyura",
+      "accepted": "Byemejwe",
+      "preparing": "Biri Gutegurwa",
+      "ready": "Biteguye Kwakirwa",
+      "completed": "Byarangiye",
+      "cancelled": "Byahagaritswe",
+      "no_show": "Ntiwaje"
+    },
+    "pickupTime": "Igihe cyo Kubifata",
+    "branch": "Ishami",
+    "total": "Byose Hamwe",
+    "viewDetails": "Reba Ibisobanuro",
+    "leaveReview": "Tanga Igitekerezo",
+    "noOrders": "Nta kintu wigeze ugura",
+    "startShopping": "Tangira Kugura"
+  },
+  "auth": {
+    "login": {
+      "title": "Murakaza neza",
+      "subtitle": "Injira muri konti yawe ya Simba",
+      "email": "Email",
+      "password": "Ijambobanga",
+      "forgot": "Wibagiwe ijambobanga?",
+      "submit": "Injira",
+      "google": "Komeza na Google",
+      "noAccount": "Nta konti ufite?",
+      "register": "Iyandikishe"
+    },
+    "register": {
+      "title": "Fungura konti yawe",
+      "subtitle": "Tangira kugurira muri Simba uyu munsi",
+      "name": "Amazina yombi",
+      "email": "Email",
+      "phone": "Numero ya telefone",
+      "password": "Ijambobanga",
+      "confirmPassword": "Emeza Ijambobanga",
+      "submit": "Fungura Konti",
+      "hasAccount": "Ufite konti?",
+      "login": "Injira",
+      "terms": "Iyo wiyandikishije, wemera amategeko yacu"
+    },
+    "forgot": {
+      "title": "Subiramo Ijambobanga",
+      "subtitle": "Andika email, tukoherereze link yo kuyisubiramo",
+      "email": "Email",
+      "submit": "Ohereza Link",
+      "backToLogin": "Subira ku kwinjira",
+      "sent": "Link yoherejwe! Reba email yawe."
+    }
+  },
+  "review": {
+    "title": "Suzuma serivisi",
+    "subtitle": "Waryohererwa bite wakiriye muri {{branch}}?",
+    "rating": "Amanota",
+    "comment": "Sangira ibitekerezo byawe (si ngombwa)",
+    "commentPlaceholder": "Ibiki wakunze? Ibiki byagombye kurushaho?",
+    "submit": "Ohereza Igitekerezo",
+    "thanks": "Murakoze ku gitekerezo cyanyu!"
+  },
+  "dashboard": {
+    "welcome": "Murakaza neza, {{name}}",
+    "overview": "Incamake",
+    "orders": "Ibyatunzwe",
+    "products": "Ibicuruzwa",
+    "categories": "Ibyiciro",
+    "branches": "Amashami",
+    "inventory": "Ububiko",
+    "users": "Abakoresha",
+    "staff": "Abakozi",
+    "reviews": "Ibitekerezo",
+    "settings": "Igenamiterere",
+    "stats": {
+      "totalOrders": "Ibyatunzwe byose",
+      "todayOrders": "Ibyatunzwe uyu munsi",
+      "pending": "Bitegereje",
+      "completed": "Byarangiye",
+      "revenue": "Inyungu",
+      "customers": "Abakiriya",
+      "products": "Ibicuruzwa",
+      "lowStock": "Ububiko bucye"
+    },
+    "assignOrder": "Tanga ku mukozi",
+    "acceptOrder": "Emera",
+    "markReady": "Bimaze",
+    "markCompleted": "Byarangiye",
+    "markNoShow": "Ntiwaje",
+    "pendingApproval": "Bitegereje Kwemerwa",
+    "approve": "Emera",
+    "reject": "Wange",
+    "createBranch": "Kora Ishami",
+    "createProduct": "Kora Igicuruzwa"
+  },
+  "chatbot": {
+    "title": "Umufasha wa Simba",
+    "subtitle": "Nawufasha iki uyu munsi?",
+    "placeholder": "Baza icyo ushaka...",
+    "send": "Ohereza",
+    "greeting": "Muraho! Ndi Umufasha wa Simba. Nshobora kugufasha kubona ibicuruzwa, amakuru y'amashami, no gusubiza ibibazo. Ni iki ushaka?",
+    "suggestions": {
+      "milk": "Mufite amata mashya?",
+      "breakfast": "Nshaka ibyo kurya mu gitondo",
+      "branches": "Amashami yanyu ari he?",
+      "delivery": "Gufata bikora bite?"
+    }
+  },
+  "common": {
+    "loading": "Biradukinuka...",
+    "save": "Bika",
+    "cancel": "Hagarika",
+    "delete": "Siba",
+    "edit": "Hindura",
+    "create": "Kora",
+    "submit": "Ohereza",
+    "back": "Subira",
+    "next": "Komeza",
+    "close": "Funga",
+    "confirm": "Emeza",
+    "yes": "Yego",
+    "no": "Oya",
+    "search": "Shakisha",
+    "filter": "Shungura",
+    "all": "Byose",
+    "none": "Nta na kimwe",
+    "error": "Hari ikibazo",
+    "success": "Byagenze neza!",
+    "required": "Ngombwa",
+    "optional": "Si ngombwa"
+  },
+  "footer": {
+    "about": "Ibitwerekeye Simba",
+    "aboutText": "Supermarket nini mu Rwanda, dukorera sosiyete kuva 1990 dutanga ibicuruzwa bishya na serivisi nziza.",
+    "quickLinks": "Ingenzi",
+    "support": "Ubufasha",
+    "contact": "Twandikire",
+    "faq": "Ibibazo",
+    "terms": "Amategeko",
+    "privacy": "Ibanga",
+    "followUs": "Dukurikire",
+    "copyright": "© 2026 Simba Supermarket. Uburenganzira bwose burarindwa."
+  }
+}
