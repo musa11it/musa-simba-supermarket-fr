@@ -1,14 +1,13 @@
 import axios, { AxiosInstance, AxiosError } from 'axios';
 
-// const API_URL = import.meta.env.VITE_API_URL || '/api';
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
 class ApiClient {
   private client: AxiosInstance;
 
   constructor() {
     this.client = axios.create({
-      baseURL: BASE_URL,
+      baseURL: API_URL,
       timeout: 30000,
       headers: { 'Content-Type': 'application/json' },
     });
@@ -31,7 +30,6 @@ class ApiClient {
           if (!path.includes('/login') && !path.includes('/register')) {
             localStorage.removeItem('simba_token');
             localStorage.removeItem('simba_user');
-            // Don't force redirect from home
             if (path.includes('/dashboard') || path.includes('/account')) {
               window.location.href = '/login';
             }
